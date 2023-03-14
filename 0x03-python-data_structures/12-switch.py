@@ -2,5 +2,4 @@
 a = 89
 b = 10
 a, b = b, a
-# tuple unpacking to swap the values of a and b in one line:
-print("a={:d} - b={:d}".format(a, b))
+print("a={:d} - b={:d}".format(a, b)) # tuple unpacking to swap the values of a and b in one line
